@@ -1,0 +1,36 @@
+
+# Core
+streamlit==1.25.0
+python-dotenv==1.0.0
+pandas==2.1.1
+numpy==1.26.2
+
+# Embeddings & models
+sentence-transformers==2.2.2
+transformers==4.34.0
+torch==2.2.0
+
+# Vector search
+faiss-cpu==1.7.4
+
+# PDF / Reporting / Visualization
+matplotlib==3.8.1
+plotly==5.16.0
+reportlab==4.0
+
+# PDF/Docx generation (optional)
+python-docx==0.8.12
+
+# PDF parsing
+PyMuPDF==1.23.0
+
+# LLM APIs
+openai==1.27.0
+azure-ai-openai==1.0.0
+
+# Utilities / dev
+tqdm==4.66.1
+scikit-learn==1.3.2
+
+# Testing
+pytest==7.4.2
