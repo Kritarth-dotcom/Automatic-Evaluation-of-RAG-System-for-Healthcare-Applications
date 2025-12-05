@@ -60,11 +60,6 @@ GOOGLE_APPLICATION_CREDENTIALS=/path/to/google-service-account.json
 FAISS_INDEX_PATH=./data/faiss_index
 ```
 
-### Run the Streamlit Dashboard (recommended)
-```bash
-streamlit run app.py
-```
-
 ### CLI Usage (examples)
 Evaluate a single dataset and write results:
 ```bash
