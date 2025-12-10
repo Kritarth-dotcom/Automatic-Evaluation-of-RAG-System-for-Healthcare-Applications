@@ -131,10 +131,5 @@ Contributions and improvements are welcome. Please open an issue or a pull reque
 
 ---
 
-## License
-Specify an appropriate license (e.g., MIT) in `LICENSE`.
-
----
-
 ## Contact
-Maintainer: Your Name — your.email@example.com
+Maintainer: Kritarth Sahu — kritarthsahu2112@gmail.com
